@@ -28,6 +28,9 @@ const ButtonComp = ({ value, id }) => {
             padding: "15px",
             width: "100%",
             fontSize: "2rem",
+            "&:hover": {
+              boxShadow: "10px 10px 5px grey",
+            },
           }}
           onClick={() => {
             const items = [...display];

@@ -6,10 +6,9 @@ import Data from "../questions.json";
 const Question = () => {
   const params = useParams();
   const [question, setQuestion] = useState("");
-  const [minute, setMinute] = useState("00");
-  const [second, setSecond] = useState("00");
+  const [second, setSecond] = useState("40");
   const [isActive, setIsActive] = useState(true);
-  const [counter, setCounter] = useState(0);
+
   useEffect(() => {
     Data.Questions.forEach((element) => {
       if (element.id === params.id) {
@@ -18,31 +17,25 @@ const Question = () => {
     });
 
     let intervalId;
+    const counter = 1;
     if (isActive) {
       intervalId = setInterval(() => {
-        const secondCounter = counter % 60;
-        const minuteCounter = Math.floor(counter / 60);
-
         let computedSecond =
-          String(secondCounter).length === 1
-            ? `0${secondCounter}`
-            : secondCounter;
-        let computedMinute =
-          String(minuteCounter).length === 1
-            ? `0${minuteCounter}`
-            : minuteCounter;
+          parseInt(second) - counter > 0
+            ? parseInt(second) <= 10
+              ? `0${parseInt(second) - counter}`
+              : `${parseInt(second) - counter}`
+            : `00`;
+        console.log(second, counter);
 
         setSecond(computedSecond);
-        setMinute(computedMinute);
 
-        if (counter === 60) setIsActive(false);
-
-        setCounter((counter) => counter + 1);
+        if (parseInt(second) === 0) setIsActive(false);
       }, 1000);
     }
 
     return () => clearInterval(intervalId);
-  }, [isActive, counter]);
+  }, [isActive, second]);
 
   return (
     <Stack
@@ -64,8 +57,6 @@ const Question = () => {
         padding={"0 30px"}
         boxShadow={"10px 10px 5px grey"}
       >
-        <span>{minute}</span>
-        <span>:</span>
         <span>{second}</span>
       </Box>
       <Box m={"5rem"}>
