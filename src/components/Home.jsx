@@ -3,7 +3,7 @@ import logo from "../assets/CONSOLE logo.png";
 import CV from "../assets/CV logo.png";
 import React from "react";
 import ButtonComp from "./ButtonComp";
-const buttons = new Array(21).fill(0);
+const buttons = new Array(30).fill(0);
 
 const StyledBox = styled(Box)({
   marginBottom: "20px",

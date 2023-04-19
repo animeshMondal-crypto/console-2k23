@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
 const ButtonComp = ({ value, id }) => {
-  const [display, setDisplay] = useState(new Array(21).fill(false));
+  const [display, setDisplay] = useState(new Array(30).fill(false));
   useEffect(() => {}, display);
   return (
     <Box className="buttonBox">
@@ -11,23 +11,27 @@ const ButtonComp = ({ value, id }) => {
         <Button
           key={value}
           id={value}
-          variant="contained"
+          variant={"contained"}
+          disabled={display[id - 1] ? true : false}
           color={
-            value % 3 === 0
+            value % 1 === 0 && value % 5 === 0
               ? "error"
-              : value % 4 === 0
+              : value % 2 === 0 && value % 4 === 0
               ? "warning"
-              : value % 2 === 0
+              : value % 3 === 0 && value % 6 === 0
+              ? "secondary"
+              : value % 7 === 0
               ? "success"
               : "info"
           }
-          disabled={display[id - 1] ? true : false}
           sx={{
             borderRadius: "20px",
-            marginBottom: "15px",
-            padding: "15px",
+            color: "white",
+            fontSize: "1.5rem",
+            fontWeight: "800",
+            padding: "0.5rem",
+            margin: "0.1rem",
             width: "100%",
-            fontSize: "2rem",
             "&:hover": {
               boxShadow: "10px 10px 5px grey",
             },
