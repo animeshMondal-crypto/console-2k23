@@ -59,8 +59,8 @@ const Question = () => {
       >
         <span>{second}</span>
       </Box>
-      <Box m={"5rem"}>
-        <Typography variant="h3" fontWeight={"700"}>
+      <Box m={"5rem"} textAlign={"center"}>
+        <Typography variant="h2" fontWeight={"700"} fontSize={"4.5rem"}>
           {question}
         </Typography>
       </Box>

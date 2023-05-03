@@ -2,123 +2,123 @@
   "Questions": [
     {
       "id": "1",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "Which was the first purely object oriented programming language developed?"
     },
     {
       "id": "2",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "Which feature of OOP indicates code reusability?"
     },
     {
       "id": "3",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is meant by an empty tag in HTML?"
     },
     {
       "id": "4",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is a chatbot?"
     },
     {
       "id": "5",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is Turing Test?"
     },
     {
       "id": "6",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "Which programming language is commonly used in AI?"
     },
     {
       "id": "7",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is DNS?"
     },
     {
       "id": "8",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "Which type of cable is used to connect devices in a network?"
     },
     {
       "id": "9",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is a WAN?"
     },
     {
       "id": "10",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What was the first computer virus called?"
     },
     {
       "id": "11",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "Who developed the first graphical user interface (GUI)?"
     },
     {
       "id": "12",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What was the first programming language?"
     },
     {
       "id": "13",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "Who is credited with creating the first computer virus?"
     },
     {
       "id": "14",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What was the first video game?"
     },
     {
       "id": "15",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is dApp?"
     },
     {
       "id": "16",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What do you call a computer on a network that requests files from another computer?"
     },
     {
       "id": "17",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "'.BAT' extension refers usually to what kind of file?"
     },
     {
       "id": "18",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "A number that is used to control the form of another number is known as?"
     },
     {
       "id": "19",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "A function that is called automatically each time an object is destroyed is?"
     },
     {
       "id": "20",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What does the acronym 'GPT' stand for in ChatGPT?"
     },
     {
       "id": "21",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is a decorator in Python?"
     },
     {
       "id": "22",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is a lambda function in Python?"
     },
     {
       "id": "23",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is the purpose of the _init_() method in Python classes?"
     },
     {
       "id": "24",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is a block in a blockchain?"
     },
     {
       "id": "25",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "Which search algorithm works by dividing the search interval in half?"
     },
     {
       "id": "26",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is the role of miners in a blockchain network?"
     },
     {
       "id": "27",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "The first graphical browser for the WWW was named?"
     },
     {
       "id": "28",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is blockchain?"
     },
     {
       "id": "29",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "Which technology is used by Web3 to build decentralized applications?"
     },
     {
       "id": "30",
-      "q": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor urna nunc id. Mauris sit amet massa vitae tortor condimentum lacinia."
+      "q": "What is the purpose of the zip() function in Python?"
     }
   ]
 }
