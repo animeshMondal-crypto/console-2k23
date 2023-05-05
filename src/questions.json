@@ -10,15 +10,15 @@
     },
     {
       "id": "3",
-      "q": "What is meant by an empty tag in HTML?"
+      "q": "Who created Ethereum Blockchain? "
     },
     {
       "id": "4",
-      "q": "What is a chatbot?"
+      "q": "Who first proposed the concept of Blockchain?"
     },
     {
       "id": "5",
-      "q": "What is Turing Test?"
+      "q": "what is the fastest blockchain in terms of transactions? "
     },
     {
       "id": "6",
@@ -26,7 +26,7 @@
     },
     {
       "id": "7",
-      "q": "What is DNS?"
+      "q": "What is the term used to describe the process of verifying transactions on the blockchain?"
     },
     {
       "id": "8",
@@ -34,7 +34,7 @@
     },
     {
       "id": "9",
-      "q": "What is a WAN?"
+      "q": "Which programming language is used to build smart contracts on the Ethereum blockchain? "
     },
     {
       "id": "10",
@@ -58,7 +58,7 @@
     },
     {
       "id": "15",
-      "q": "What is dApp?"
+      "q": "What does dApp stands for in web3.0?"
     },
     {
       "id": "16",
@@ -82,19 +82,19 @@
     },
     {
       "id": "21",
-      "q": "What is a decorator in Python?"
+      "q": "What is the name of the company that created ChatGPT?"
     },
     {
       "id": "22",
-      "q": "What is a lambda function in Python?"
+      "q": "What is the name of the algorithm used by Google's search engine to rank web pages? "
     },
     {
       "id": "23",
-      "q": "What is the purpose of the _init_() method in Python classes?"
+      "q": "What does EVM stand for in Web3.0?"
     },
     {
       "id": "24",
-      "q": "What is a block in a blockchain?"
+      "q": "What is the name of the virtual reality headset developed by Facebook?"
     },
     {
       "id": "25",
@@ -102,7 +102,7 @@
     },
     {
       "id": "26",
-      "q": "What is the role of miners in a blockchain network?"
+      "q": "What is the term used to describe a unique digital asset that is verified on the blockchain? "
     },
     {
       "id": "27",
@@ -110,7 +110,7 @@
     },
     {
       "id": "28",
-      "q": "What is blockchain?"
+      "q": "What was the first metaverse application?"
     },
     {
       "id": "29",
@@ -118,7 +118,7 @@
     },
     {
       "id": "30",
-      "q": "What is the purpose of the zip() function in Python?"
+      "q": "Which hashing algorithm is used in bitcoin blockchain?"
     }
   ]
 }
